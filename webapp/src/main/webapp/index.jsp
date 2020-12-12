@@ -5,3 +5,4 @@
 <h2> RAMANA MAHARSHI </h2>
 <h2> Satguru Ramana Maharshi </h2>
 <h2> Satnam Waheguru </h2>
+<h2> Self </h2>
