@@ -6,3 +6,4 @@
 <h2> Satguru Ramana Maharshi </h2>
 <h2> Satnam Waheguru </h2>
 <h2> Self </h2>
+<h2> Self alone exists</h2>
